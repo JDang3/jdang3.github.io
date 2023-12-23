@@ -1,0 +1,4 @@
+baseURL = 'https://jdang3.github.io'
+languageCode = 'en-gb'
+title = 'james.d'
+theme = 'ananke'
