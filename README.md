@@ -1,1 +1,1 @@
-# jdang3..github.io
+# jdang3.github.io
