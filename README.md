@@ -1,3 +1,7 @@
 # jdang3.github.io
 
-my development playground on hosting static websites.
+My development playground on hosting static websites.
+
+[Link](https://jdang3.github.io/)
+
+ 
