@@ -1,8 +1,10 @@
 ---
-date: 2023-25-25T10:58:08-04:00
+date: 2023-12-25T00:41:12Z
 description: "Learning has no boundaries"
 featured_image: "/images/determination.jpeg"
 title: 'Determination'
+tags: ["Learning", "Determination"]
+draft: false
 ---
 
 ## 学海无涯 (Learning has no boundaries)
