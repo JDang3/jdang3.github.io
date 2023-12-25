@@ -1,4 +1,16 @@
 baseURL = 'https://jdang3.github.io'
 languageCode = 'en-gb'
-title = 'JD3'
 theme = 'ananke'
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "JD3"
+    weight = 1
+    contentDir = "content/"
+    # languageDirection = 'rtl' for Right-To-Left languages
