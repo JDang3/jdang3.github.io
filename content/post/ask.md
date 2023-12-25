@@ -1,5 +1,5 @@
 ---
-date: 2023-12-25T00:41:12Z
+date: 2023-12-25T13:41:12Z
 description: "If you don't ask then you don't get."
 title: 'Ask'
 featured_image: "/images/ask.jpeg"
@@ -16,6 +16,6 @@ Tradtional Chinese: 不問就笨
 
 
 *Don't be afraid and just ask*\
-*如果你不问，你就不知道答案是什么。。。值得吗？*
+*如果你不问，你就不知道答案。。。值得吗？*
 
 ![Cat shall Ask](/images/ask.jpeg)
