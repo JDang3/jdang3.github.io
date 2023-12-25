@@ -19,3 +19,5 @@ I came across this phrase during my university studies. My Math lecturer shared 
 
 *If you give up, then all your efforts and hardwork will be lost.*\
 *做人要靠自己，如果你放弃了那就全部的努力就没了*
+
+![Oceans Sea](/images/determination.jpeg)
