@@ -1,10 +1,10 @@
 ---
-date: 2023-12-25T13:41:12Z
+date: 2023-12-29T14:43:12Z
 description: "If you don't ask then you don't get."
 title: 'Ask'
 featured_image: "/images/ask.jpeg"
 tags: ["Learning", "Courage", "Brave", "Confidence"]
-draft: true
+draft: false
 ---
 
 ## 不问就笨 (just ask)
