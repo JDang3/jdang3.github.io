@@ -16,7 +16,7 @@ You waste a lot of negative energy, and this takes time to recover. If you're ab
 Simplified Chinese: 人比人，气死人 \
 Tradtional Chinese: 人比人，激死人
 
-"人比人，比死人" - Though in my journey, I have come across this variant. Which means that by constantly comparing yourself with others, it feels like your entire life becomes a never-ending competition where winning is not possible. 
+"人比人，比死人" - Though in my journey, I have come across this variant. Which means that by constantly comparing yourself with others, it feels like your entire life becomes a never-ending competition where winning is not even possible. 
 
 "人比人，气死人" - This variant means comparing yourself with others to the point that it makes you angry. 
 
